@@ -121,8 +121,13 @@
               "devServerTarget": "getting-started-angular:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "getting-started-angular"
 }

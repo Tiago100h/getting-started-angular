@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "getting-started-angular-tiago": {
+      "hosting": {
+        "getting-started-angular": [
+          "getting-started-angular-tiago"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "getting-started-angular-tiago"
+  }
+}
